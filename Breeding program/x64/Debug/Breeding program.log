@@ -1,0 +1,7 @@
+﻿  animal.cpp
+  Breeding program.cpp
+  female.cpp
+C:\Users\phone\Desktop\UAT\CSC275  C++ Programming II\MY Code\Assignments\Breeding program\female.cpp(6,1): error C2011: 'female': 'class' type redefinition
+C:\Users\phone\Desktop\UAT\CSC275  C++ Programming II\MY Code\Assignments\Breeding program\female.h(3): message : see declaration of 'female'
+  male.cpp
+  Generating Code...
